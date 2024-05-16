@@ -114,7 +114,7 @@ body {
 .btn--big::after{
     content: attr(data-type);
     font-size: 1rem;
-    color: #ff7195;
+    color: #445361;
     position: relative;
     left: -0.5em;
 }
@@ -173,8 +173,6 @@ body {
 .btn--gray:active,
 .btn--gray:hover {
     background-color: #0d1013;
-    position: relative;
-    left: -0.5em;
 }
 
 /* --------- Media queries */
